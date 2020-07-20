@@ -2,11 +2,11 @@
 
 ## Assignment 1
 
-Q1. KNN Classifier
-Q2. SVM
-Q3. Softmax Classifier
-Q4. Two-Layer Neural Network
-Q5. Higher-Level Representations
+1. KNN Classifier
+2. SVM
+3. Softmax Classifier
+4. Two-Layer Neural Network
+5. Higher-Level Representations
 
 
 
