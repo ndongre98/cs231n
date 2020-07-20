@@ -2,7 +2,7 @@
 
 ## Assignment 1
 
-1. KNN Classifier :black_check_mark:
+1. KNN Classifier :white_check_mark:
 2. SVM
 3. Softmax Classifier
 4. Two-Layer Neural Network
