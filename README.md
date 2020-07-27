@@ -1,4 +1,4 @@
-# Stanford CS231N (S20)
+# Stanford CS231n (S20)
 
 ## Notes
 
