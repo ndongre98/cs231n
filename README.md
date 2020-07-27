@@ -1,10 +1,10 @@
 # Stanford CS231n (S20)
 
-## Notes
+## Notes (In Progress)
 
 Here are my [notes for this course](https://www.notion.so/namitadongre/CS231N-0da194e189c744788c83425693c24557).
 
-## Assignments
+## Assignments (In Progress)
 ### Assignment 1
 
 1. KNN Classifier :white_check_mark:
