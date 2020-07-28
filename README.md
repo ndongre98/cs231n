@@ -1,8 +1,9 @@
 # Stanford CS231n (S20)
 
-## Notes (In Progress)
+## Resources (In Progress)
 
-Here are my [notes for this course](https://www.notion.so/namitadongre/CS231N-0da194e189c744788c83425693c24557).
+- [Course Website](https://cs231n.github.io/)
+- My [notes for this course](https://www.notion.so/namitadongre/CS231N-0da194e189c744788c83425693c24557)
 
 ## Assignments (In Progress)
 ### Assignment 1
