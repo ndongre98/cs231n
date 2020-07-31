@@ -9,7 +9,7 @@
 ### Assignment 1
 
 1. KNN Classifier :white_check_mark:
-2. SVM
+2. SVM :white_check_mark:
 3. Softmax Classifier
 4. Two-Layer Neural Network
 5. Higher-Level Representations
